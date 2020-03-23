@@ -1,0 +1,23 @@
+GET: Visualizar Logradouro
+https://localhost:5001/api/logradouro/1
+
+POST: Criar Logradouro
+https://localhost:5001/api/logradouro
+
+PUT: Atualizar Logradouro
+https://localhost:5001/api/logradouro
+
+DELETE: Remover Logradouro
+https://localhost:5001/api/logradouro/1
+
+GET: Visualizar Cliente
+https://localhost:5001/api/cliente/1
+
+POST: Criar Cliente
+https://localhost:5001/api/cliente
+
+PUT: Atualizar Cliente
+https://localhost:5001/api/cliente
+
+DELETE: Remover Cliente
+https://localhost:5001/api/cliente/1/1

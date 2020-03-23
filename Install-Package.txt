@@ -1,0 +1,8 @@
+.NET CLI package NUGET
+
+dotnet add package Microsoft.AspNetCore.Authentication
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+dotnet add package Microsoft.Extensions.Configuration
+dotnet add package Microsoft.AspNetCore.ResponseCompression
+dotnet add package System.Data.SqlClient
+dotnet add package System.ComponentModel.Annotations
